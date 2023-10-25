@@ -14,10 +14,14 @@ Cursos do SkillBuilds de 2023
 
 <img src="/assets/img/SkillBuilds/AgileBadge.png">
 
+
+
 - Atenção Plena
 <img src="/assets/img/SkillBuilds/Atencao.png">
 
 <img src="/assets/img/SkillBuilds/Atencao1.png">
+
+
 
 - Ciência de Dados
 <img src="/assets/img/SkillBuilds/Ciencia1.png">
@@ -26,13 +30,19 @@ Cursos do SkillBuilds de 2023
 
 <img src="/assets/img/SkillBuilds/Ciencia3.png">
 
+
+
 - Computação em Nuvem
 <img src="/assets/img/SkillBuilds/Nuvem1.png">
 
 <img src="/assets/img/SkillBuilds/Nuvem2.png">
 
+
+
 - Total de Horas e Credenciais
 <img src="/assets/img/SkillBuilds/Progress.png">
+
+
 
 - Progresso completo do curso
 <img src="/assets/img/SkillBuilds/P-Tech.png">
