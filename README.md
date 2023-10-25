@@ -4,7 +4,7 @@ Portifólio segundo as atividades do 2ºDS AMS
 Cursos do SkillBuilds de 2023
 
 - Agile
-<img src="../assets/img/SkillBuilds/Agile1.png">
+<img src="/assets/img/SkillBuilds/Agile1.png">
 
 <img src="/assets/img/SkillBuilds/Agile2.png">
 
