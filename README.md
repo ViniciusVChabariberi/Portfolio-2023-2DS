@@ -1,5 +1,5 @@
-# Portif-lio-2023-2DS
-Portifólio segundo as atividades do 2ºDS AMS
+# Portfólio-2023-2DS
+Portfólio segundo as atividades do 2ºDS AMS
 
 ## IBM SITE
 
@@ -9,42 +9,20 @@ Portifólio segundo as atividades do 2ºDS AMS
 ## Cursos do SkillBuilds de 2023
 
 - Agile
-<img src="/assets/img/SkillBuilds/Agile1.png">
-
-<img src="/assets/img/SkillBuilds/Agile2.png">
-
-<img src="/assets/img/SkillBuilds/Agile3.png">
-
-<img src="/assets/img/SkillBuilds/Agile4.png">
-
-<img src="/assets/img/SkillBuilds/AgileBadge.png">
-
-
 
 - Atenção Plena
-<img src="/assets/img/SkillBuilds/Atencao.png">
-
-<img src="/assets/img/SkillBuilds/Atencao1.png">
-
-
 
 - Ciência de Dados
-<img src="/assets/img/SkillBuilds/Ciencia1.png">
-
-<img src="/assets/img/SkillBuilds/Ciencia2.png">
-
-<img src="/assets/img/SkillBuilds/Ciencia3.png">
-
-
 
 - Computação em Nuvem
-<img src="/assets/img/SkillBuilds/Nuvem1.png">
 
-<img src="/assets/img/SkillBuilds/Nuvem2.png">
+- Credenciais 
+<a href="https://www.credly.com/badges/f5f28e43-a6a5-49f5-aba9-35111499773a/linked_in_profile">Explorations into Mindfulness</a>
+<a href="https://www.credly.com/badges/6708594a-a614-4298-b587-a4d030a20782/linked_in_profile">Agile Explorer</a>
+<a href="https://www.credly.com/badges/408151a3-06a0-4750-b457-276a01a912ba/linked_in_profile">
+Working in a Digital World: Professional Skills</a>
 
-
-
-- Total de Horas e Credenciais
+- Total de Horas
 <img src="/assets/img/SkillBuilds/Progress.png">
 
 
