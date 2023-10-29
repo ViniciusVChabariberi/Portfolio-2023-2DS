@@ -11,10 +11,10 @@ Tabela de conteúdos
    * [IBM Site](https://github.com/nickolss/IBM-Site.git)
    * Cursos do IBM SkillBuilds de 2023
       <p align="center">
-       <a href="#">Agile</a> •
-       <a href="#">Atenção Plena</a> • 
-       <a href="#">Ciência de Dados</a> • 
-       <a href="#">Computação em Nuvem</a>
+       Agile •
+       Atenção Plena • 
+       Ciência de Dados • 
+       Computação em Nuvem
       </p>
       <p align="center">Credenciais dos Cursos<br></p>
 [![Badge](https://img.shields.io/badge/IBM-Explorations_Into_Mindfulness-blue?style=for-the-badge&logo=ghost&logoColor=blue)](https://www.credly.com/badges/f5f28e43-a6a5-49f5-aba9-35111499773a/linked_in_profile)
